@@ -1,0 +1,334 @@
+{
+  "seatingDetails": [
+    {
+      "data": {
+        "id": "10636_7772_2021-07-26",
+        "cinema_id": 10636,
+        "cinema_name": "Cinema 6",
+        "film_id": 7772,
+        "film_name": "Raiders of the Lost Ark",
+        "timings": [
+          {
+            "date": "2021-07-26",
+            "times": [
+              {
+                "start_time": "14:50",
+                "end_time": "17:04",
+                "seat_details": [
+                  {
+                    "seat_number": [
+                      "1A",
+                      "1B"
+                    ],
+                    "name": "Johnathan",
+                    "isReserved": true
+                  },
+                  {
+                    "seat_number": [
+                      "2A"
+                    ],
+                    "name": "Johnathan",
+                    "isReserved": true
+                  },
+                  {
+                    "seat_number": [
+                      "3A",
+                      "3G"
+                    ],
+                    "name": "Johny",
+                    "isReserved": true
+                  },
+                  {
+                    "seat_number": [
+                      "2C"
+                    ],
+                    "name": "John",
+                    "isReserved": true
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "id": "10636_7772_2021-07-26"
+    },
+    {
+      "data": {
+        "id": "10636_25_2021-07-27",
+        "cinema_id": 10636,
+        "cinema_name": "Cinema 6",
+        "film_id": 25,
+        "film_name": "Stargate",
+        "timings": [
+          {
+            "date": "2021-07-27",
+            "times": [
+              {
+                "start_time": "21:00",
+                "end_time": "23:18",
+                "seat_details": [
+                  {
+                    "seat_number": [
+                      "6F",
+                      "7F"
+                    ],
+                    "name": "honey bee",
+                    "isReserved": true
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "id": "10636_25_2021-07-27"
+    },
+    {
+      "data": {
+        "id": "10636_25_2021-07-28",
+        "cinema_id": 10636,
+        "cinema_name": "Cinema 6",
+        "film_id": 25,
+        "film_name": "Stargate",
+        "timings": [
+          {
+            "date": "2021-07-28",
+            "times": [
+              {
+                "start_time": "21:00",
+                "end_time": "23:18",
+                "seat_details": [
+                  {
+                    "seat_number": [
+                      "4C",
+                      "5D",
+                      "6C",
+                      "5C",
+                      "6D"
+                    ],
+                    "name": "rsf ergdvfc",
+                    "isReserved": true
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "id": "10636_25_2021-07-28"
+    },
+    {
+      "data": {
+        "id": "8845_62407_2021-07-27",
+        "cinema_id": 8845,
+        "cinema_name": "Cinema 2",
+        "film_id": 62407,
+        "film_name": "The Fall",
+        "timings": [
+          {
+            "date": "2021-07-27",
+            "times": [
+              {
+                "start_time": "17:45",
+                "end_time": "19:59",
+                "seat_details": [
+                  {
+                    "seat_number": [
+                      "6D",
+                      "5D",
+                      "6C",
+                      "5C",
+                      "4C"
+                    ],
+                    "name": "ygkub,jh hjkgvkghvb",
+                    "isReserved": true
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "id": "8845_62407_2021-07-27"
+    },
+    {
+      "data": {
+        "id": "10636_184126_2021-07-28",
+        "cinema_id": 10636,
+        "cinema_name": "Cinema 6",
+        "film_id": 184126,
+        "film_name": "The Martian",
+        "timings": [
+          {
+            "date": "2021-07-28",
+            "times": [
+              {
+                "start_time": "15:10",
+                "end_time": "17:16",
+                "seat_details": [
+                  {
+                    "seat_number": [
+                      "5B",
+                      "6B",
+                      "7B",
+                      "12D",
+                      "1D"
+                    ],
+                    "name": "jnkjn kjnkjn",
+                    "isReserved": true
+                  },
+                  {
+                    "seat_number": [
+                      "6B",
+                      "7C",
+                      "6C",
+                      "5C",
+                      "6D"
+                    ],
+                    "name": "jkjhnkjn kljnknokmlk",
+                    "isReserved": true
+                  },
+                  {
+                    "seat_number": [
+                      "7F",
+                      "6F",
+                      "5F",
+                      "4F"
+                    ],
+                    "name": "jhbjhb kjnkjnnkm",
+                    "isReserved": true
+                  },
+                  {
+                    "seat_number": [
+                      "10E",
+                      "10F",
+                      "10G",
+                      "10H"
+                    ],
+                    "name": "jnkjn kjnk",
+                    "isReserved": true
+                  },
+                  {
+                    "seat_number": [
+                      "5H",
+                      "6H"
+                    ],
+                    "name": "gfygkhj hgiulhiun",
+                    "isReserved": true
+                  },
+                  {
+                    "seat_number": [
+                      "6E"
+                    ],
+                    "name": "kjlkjn jhljnljk",
+                    "isReserved": true
+                  },
+                  {
+                    "seat_number": [
+                      "1F",
+                      "1E"
+                    ],
+                    "name": "efsdesd erfdvwsed",
+                    "isReserved": true
+                  },
+                  {
+                    "seat_number": [
+                      "9A"
+                    ],
+                    "name": "kgybh khbhjm n",
+                    "isReserved": true
+                  },
+                  {
+                    "seat_number": [
+                      "4A",
+                      "6A",
+                      "5A",
+                      "7A",
+                      "8A"
+                    ],
+                    "name": "hgkvhb khbhjn",
+                    "isReserved": true
+                  },
+                  {
+                    "seat_number": [
+                      "1A",
+                      "1B",
+                      "12E",
+                      "11E"
+                    ],
+                    "name": "jhbhb,j jnljnkjn",
+                    "isReserved": true
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "id": "10636_184126_2021-07-28"
+    },
+    {
+      "data": {
+        "id": "10636_59906_2021-07-29",
+        "cinema_id": 10636,
+        "cinema_name": "Cinema 6",
+        "film_id": 59906,
+        "film_name": "There Will Be Blood",
+        "timings": [
+          {
+            "date": "2021-07-29",
+            "times": [
+              {
+                "start_time": "10:40",
+                "end_time": "13:08",
+                "seat_details": [
+                  {
+                    "seat_number": [
+                      "7G",
+                      "6G",
+                      "5G",
+                      "6F"
+                    ],
+                    "name": "jhbjh hbjjhb,",
+                    "isReserved": true
+                  },
+                  {
+                    "seat_number": [
+                      "6B",
+                      "7B"
+                    ],
+                    "name": "jhbknlj jnlijknk.m",
+                    "isReserved": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "date": "2021-07-29",
+            "times": [
+              {
+                "start_time": "12:00",
+                "end_time": "14:28",
+                "seat_details": [
+                  {
+                    "seat_number": [
+                      "4C",
+                      "6C",
+                      "5C",
+                      "7C"
+                    ],
+                    "name": "bkjb jbj,n,",
+                    "isReserved": true
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "id": "10636_59906_2021-07-29"
+    }
+  ]
+}

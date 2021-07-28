@@ -1,0 +1,353 @@
+{
+    "films": [
+        {
+            "film_id": 2756,
+            "imdb_id": 79501,
+            "imdb_title_id": "tt0079501",
+            "film_name": "Mad Max",
+            "other_titles": {
+                "EN": "Mad Max (1979)"
+            },
+            "release_dates": [
+                {
+                    "release_date": "2021-08-02",
+                    "notes": "XXX"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "15 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/xx/15.png",
+                    "age_advisory": "strong threat, violence, injury detail"
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "A police officer realizes that his life is in danger when he is targeted for the murder of the leader of a motorcycle gang in futuristic Australia.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "UK",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/2756/GBR_002756h0.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },{
+            "film_id": 301280,
+            "imdb_id": 11125620,
+            "imdb_title_id": "tt11125620",
+            "film_name": "The Addams Family Sequel",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2021-10-22",
+                    "notes": "IND"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "0 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/uc.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/301280_high.mp4",
+            "synopsis_long": "",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/301280/301280h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 317545,
+            "imdb_id": null,
+            "imdb_title_id": null,
+            "film_name": "Chakravyuh (Bhojpuri)",
+            "other_titles": {
+                "BH": "Chakravyuh"
+            },
+            "release_dates": [
+                {
+                    "release_date": "2021-11-13",
+                    "notes": "IND"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "A ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/a.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "IN",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/317545/IND_317545h0.jpg",
+                            "width": 207,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 203455,
+            "imdb_id": 1757678,
+            "imdb_title_id": "tt1757678",
+            "film_name": "Avatar 3",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2021-12-17",
+                    "notes": "IND"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "0 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/uc.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "",
+            "images": {
+                "poster": []
+            }
+        },
+        {
+            "film_id": 303491,
+            "imdb_id": 6443346,
+            "imdb_title_id": "tt6443346",
+            "film_name": "Black Adam",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2021-12-22",
+                    "notes": "IND"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "0 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/uc.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/303491/303491h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 288599,
+            "imdb_id": null,
+            "imdb_title_id": null,
+            "film_name": "Hotel Transylvania 4",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2021-12-22",
+                    "notes": "IND"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "0 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/uc.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/288599_high.mp4",
+            "synopsis_long": "",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/288599/288599h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/288599/288599h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 287398,
+            "imdb_id": 9603208,
+            "imdb_title_id": "tt9603208",
+            "film_name": "Mission: Impossible 8",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-08-05",
+                    "notes": "IND"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "0 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/uc.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "",
+            "images": {
+                "poster": []
+            }
+        },
+        {
+            "film_id": 288637,
+            "imdb_id": 9663764,
+            "imdb_title_id": "tt9663764",
+            "film_name": "Aquaman 2",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-12-16",
+                    "notes": "IND"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "0 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/uc.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "",
+            "images": {
+                "poster": []
+            }
+        },
+        {
+            "film_id": 203456,
+            "imdb_id": 3095356,
+            "imdb_title_id": "tt3095356",
+            "film_name": "Avatar 4",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2024-12-20",
+                    "notes": "IND"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "0 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/uc.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "",
+            "images": {
+                "poster": []
+            }
+        },
+        {
+            "film_id": 247435,
+            "imdb_id": 5637536,
+            "imdb_title_id": "tt5637536",
+            "film_name": "Avatar 5",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2025-12-19",
+                    "notes": "IND"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "0 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/in/uc.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "",
+            "images": {
+                "poster": []
+            }
+        },
+        {
+            "film_id": 4167,
+            "imdb_id": 58625,
+            "imdb_title_id": "tt0058625",
+            "film_name": "Woman in the Dunes",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2021-07-27",
+                    "notes": "XXX"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "15 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/xx/15.png",
+                    "age_advisory": "Contains moderate sex and sexual assault"
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "When entomologist Jumpei (Eiji Okada) travels to sand dunes on an expedition, he is met by a group of people who offer him a place to spend the night. They soon lead him to a house at the bottom of a sandpit. Upon climbing into the pit, he finds a young widow (Kyoko Kishida) living alone. Placed there by the villagers, her task is to dig sand out of the pit -- not only so that they can avoid getting buried, but so that the locals can use it for construction. The next morning, when Jumpei attempts to leave, he finds that the ladder which brought him into the pit is no longer there and the villagers inform him that he must stay and help the woman dig. After trying to get out of the pit, Jumpei takes his anger out on the woman--only to soon become her lover. After some time, he slowly gives in to accepting his predicament. This interesting story takes a simple yet effective route in philosophical allegory, focusing upon the couple's oppressive confinement and the force of their physical attraction to each other in spite of--or because of--their situation. Taken from the novel by Kobo Abe, director/producer Hiroshi Teshigahara completed this visually stunning feature on a budget of only $100,000. Winning a Special Jury Prize at Cannes in 1964, the poetic Woman in the Dunes would go on to be nominated for two Academy Awards: Best Foreign Film (1964) and Best Director (1965).~ Kristie Hassen, All Movie Guide",
+            "images": {
+                "poster": []
+            }
+        }
+    ],
+    "status": {
+        "count": 11,
+        "state": "OK",
+        "method": "filmsComingSoon",
+        "message": null,
+        "request_method": "GET",
+        "version": "DEMO_2_XXv200",
+        "territory": "XX",
+        "device_datetime_sent": "2021-07-26T14:24:07.864Z",
+        "device_datetime_used": "2021-07-26 14:24:07"
+    }
+}

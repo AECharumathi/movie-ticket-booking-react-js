@@ -1,0 +1,1599 @@
+{
+    "filmDetails": [
+        {
+            "film_id": 7772,
+            "imdb_id": 82971,
+            "imdb_title_id": "tt0082971",
+            "film_name": "Raiders of the Lost Ark",
+            "other_titles": null,
+            "version_type": "Standard",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "UK",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/7772/GBR_007772h0.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    },
+                    "2": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/7772/007772h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/7772/007772h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    },
+                    "2": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/7772/007772h3.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    },
+                    "3": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/7772/007772h4.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    },
+                    "4": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/7772/007772h5.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            },
+            "synopsis_long": "As the Third Reich continues its reign of terror, Adolf Hitler is on a quest for the legendary Ark os the Covenenant- resting place of the Ten Commandments- whose supernatural powers, legend says, can wipe out entire armies.\n\nThe U.S. Government turns to Dr. Indiana Jones, for the mission.  Relentlessly pursued by Hitler's henchmen, Indy infiltrartes their massive digging operation in a race against time to discover the Well od the Souls, where the Ark has lain undisturbed for centuries.",
+            "distributor_id": 60,
+            "distributor": "Paramount UK",
+            "release_dates": [
+                {
+                    "release_date": "1992-07-01",
+                    "notes": "XXX"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/xx/pg.png",
+                    "age_advisory": "Contains moderate violence and mild language"
+                }
+            ],
+            "duration_mins": 105,
+            "review_stars": 0,
+            "review_txt": "",
+            "trailers": {
+                "high": [
+                    {
+                        "film_trailer": "https://trailer.movieglu.com/7772_high.mp4",
+                        "trailer_image": "https://image.movieglu.com/7772/007772h3.jpg",
+                        "version": 1,
+                        "quality": "high",
+                        "region": "US"
+                    }
+                ]
+            },
+            "genres": [
+                {
+                    "genre_id": 5,
+                    "genre_name": "Action/Adventure"
+                }
+            ],
+            "cast": [
+                {
+                    "cast_id": 775,
+                    "cast_name": "Harrison Ford"
+                },
+                {
+                    "cast_id": 3605,
+                    "cast_name": "Karen Allen"
+                },
+                {
+                    "cast_id": 4478,
+                    "cast_name": "John Rhys-Davies"
+                },
+                {
+                    "cast_id": 4479,
+                    "cast_name": "Paul Freeman"
+                },
+                {
+                    "cast_id": 4480,
+                    "cast_name": "Ronald Lacey"
+                },
+                {
+                    "cast_id": 4478,
+                    "cast_name": "John Rhys-Davies"
+                },
+                {
+                    "cast_id": 3931,
+                    "cast_name": "Denholm Elliott"
+                },
+                {
+                    "cast_id": 1587,
+                    "cast_name": "Alfred Molina"
+                },
+                {
+                    "cast_id": 4481,
+                    "cast_name": "Wolf Kahler"
+                },
+                {
+                    "cast_id": 4482,
+                    "cast_name": "Anthony Higgins"
+                }
+            ],
+            "directors": [
+                {
+                    "director_id": 24,
+                    "director_name": "Steven Spielberg"
+                }
+            ],
+            "producers": [
+                {
+                    "producer_id": 403,
+                    "producer_name": "Frank Marshall"
+                }
+            ],
+            "writers": [
+                {
+                    "writer_id": 1303,
+                    "writer_name": "Lawrence Kasdan"
+                },
+                {
+                    "writer_id": 1304,
+                    "writer_name": "George Lucas"
+                },
+                {
+                    "writer_id": 569,
+                    "writer_name": "Philip Kaufman"
+                }
+            ],
+            "show_dates": [
+                {
+                    "date": "2021-07-26"
+                },
+                {
+                    "date": "2021-07-27"
+                },
+                {
+                    "date": "2021-07-28"
+                },
+                {
+                    "date": "2021-07-29"
+                },
+                {
+                    "date": "2021-07-30"
+                },
+                {
+                    "date": "2021-07-31"
+                },
+                {
+                    "date": "2021-08-01"
+                },
+                {
+                    "date": "2021-08-02"
+                },
+                {
+                    "date": "2021-08-03"
+                },
+                {
+                    "date": "2021-08-04"
+                },
+                {
+                    "date": "2021-08-05"
+                },
+                {
+                    "date": "2021-08-06"
+                },
+                {
+                    "date": "2021-08-07"
+                },
+                {
+                    "date": "2021-08-08"
+                }
+            ],
+            "alternate_versions": []
+        },{
+            "film_id": 184126,
+            "imdb_id": 3659388,
+            "imdb_title_id": "tt3659388",
+            "film_name": "The Martian",
+            "other_titles": null,
+            "version_type": "Standard",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "UK",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/184126/GBR_184126h0.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    },
+                    "2": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/184126/184126h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/184126/184126h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    },
+                    "2": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/184126/184126h3.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    },
+                    "3": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/184126/184126h4.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    },
+                    "4": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/184126/184126h5.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    },
+                    "5": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/184126/184126h6.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            },
+            "synopsis_long": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive. Millions of miles away, NASA and a team of international scientists work tirelessly to bring \"the Martian\" home, while his crewmates concurrently plot a daring, if not impossible, rescue mission. As these stories of incredible bravery unfold, the world comes together to root for Watney's safe return.",
+            "distributor_id": 55,
+            "distributor": "20th Century Fox Film Co. Ltd",
+            "release_dates": [
+                {
+                    "release_date": "2015-09-30",
+                    "notes": "XXX"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "12A ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/xx/12a.png",
+                    "age_advisory": "infrequent strong language, injury detail"
+                }
+            ],
+            "duration_mins": 141,
+            "review_stars": 3.5,
+            "review_txt": "The Martian is the latest in a series of realistic science fiction films - movies that eschew the space opera elements of the genre and concentrate instead on believable aspects. Following in the wake of Christopher Nolan's Interstellar (and featuring two of the same cast members), The Martian speculates about how a near-future manned Mars mission might evolve. With the exception of a slightly over-the-top ending, the film mostly avoids the \"Hollywood-isms\" that sometimes degrade science fiction into futuristic fantasy. This is neither an action-oriented motion picture nor a special effects extravaganza. It's an introspective story about what it might be like to be the sole inhabitant of a distant world and knowing that instant communication isn't possible and a rescue is at best a year away. It's also an examination of how necessity truly can be the mother of invention - not only for the survivor but for those on Earth seeking to find a way to save him. \n\nThe events of The Martian transpire in the near future, although an exact date isn't given. As the movie opens, the six-person crew of the Ares 3 mission are on the planet's surface conducting experiments and gathering samples. In addition to astronaut Mark Watney (Matt Damon) and mission Captain Melissa Lewis (Jessica Chastain), the crew includes pilot Rick Martinez (Michael Pena), chemist Alex Vogel (Aksel Hennie), and specialists Beth Johanssen (Kate Mara) and Chris Beck (Sebastian Stan). The approach of a major storm - one that has the potential of tearing apart the fragile artificial habitat - forces Lewis to order an emergency evacuation. In the race to the escape craft, Watney is struck by a piece of flying debris, lost, and presumed dead. He is reluctantly left behind by his fellows. When NASA receives the news, director Teddy Sanders (Jeff Daniels) and Mars mission controller Vincent Kapoor (Chiwetel Ejiofor) make the news of the death public.\n\nWatney isn't dead, however. Although injured, he is able to use an emergency medical kit to close a wound and, after coming to terms with the enormity of his situation, he assesses what he will have to do to survive. Within a month, NASA has become aware of his survival and, not long after, rudimentary communications are possible. The film then becomes a race against time to save Watney before his provisions run out.\n\nMost movies about Mars (and there have been a lot of them) are hybrid science fiction-horror or science fiction-thriller productions with little emphasis on the \"science fiction\" part of the equation. Since The Martian isn't interested in the exploitation aspect, that makes it an outlier in the \"Mars\" canon. Instead, it's a close cousin to sci-fi stories like Moon, Gravity, and Interstellar and deals with some of the same themes and ideas as Cast Away and Touching the Void. The Martian's drama evolves from showing how the character copes with isolation. There are certainly physical challenges but the psychological difficulties are the most compelling ones.\n\nAlthough the concept of a modern day Robinson Crusoe marooned on Mars might sound like a depressing proposition, the film's tone never ventures into dark and downbeat territory. Without detracting from the seriousness of the situation, director Ridley Scott infuses the production with moments of low-key, appropriate comedy. Watney's introspective video journals illustrate not only his practicality and innovation but his wry (sometimes gallows) sense of humor. Likewise, some of the Earth-based scenes, while not openly comedic, are played with a lighthearted sensibility.\n\nFor Matt Damon, this is a rare opportunity to show his range. Neither action hero nor supporting character nor George Clooney sidekick, he gives a performance to rival The Departed as the best of his career.  One key difference: here, he isn't surrounded by the likes of Leonardo DiCaprio, Jack Nicholson, and Martin Sheen. This is Damon's movie and it's hard to find a flaw in the way he brings Watney to life. The fear, the anguish, the loneliness, the desperation, and the joy they're all there. Only once does Watney give into despair and, on that occasion, it doesn't last long. The secondary cast is impressive, with names like Jessica Chastain, Kristin Wiig, Chiwetel Ejiofor, and Sean Bean lending their talents, but their roles aren't large. They support and never threaten to take the spotlight away from Damon. (Considering that he also played a stranded astronaut in Interstellar, one wonders whether he has become Hollywood's go-to guy for this kind of character.)\n\nAs a director, Ridley Scott is by no means a \"can't miss\" proposition.  Although one can rarely fault his ambition, the results have been mixed, especially in recent years. When it comes to science fiction, however, Scott's track record is solid: Alien, Blade Runner, Prometheus - two bona fide classics and one flawed but compelling odyssey. The Martian is a different kind of film from those but no less impressive. Scott uses special effects as a tool to enhance the experience rather than as the means to define it. Many of the effects in The Martian are of the practical variety with CGI used primarily to add an otherworldly flavor to the Martian landscape. The space sequences are nearly as good as those in Gravity. The 3D, although not as impressive as in Alfonso Cuaron's 2013 picture, feels neither gimmicky nor unnecessary. As uneven a director as Scott can be, he can do some amazing things when he's \"on\"; this is one such occasion.\n\nThe Martian is based on Andy Weir's novel of the same name and uses a similar science-based approach to many of its scenes. NASA was involved both at the script stage and during filming and, although there are instances in which The Martian takes liberties with the laws of physics, it presents one of the most accurate screen depictions of space travel to date. This authenticity is one of the factors that attracted Damon and Scott to the project and Weir's continued involvement brought NASA on board. \n\nIn releasing The Martian, 20th Century Fox has fired the first shot in the 2015 Oscar competition. Although the science fiction genre is more often associated with the escapist fare of summer than the serious offerings of the fall, The Martian is an exception. Those who crave nonstop action and seizure-promoting editing may find this film's pace too deliberate. They may be unable to appreciate its character focus and slow but undeniable build-up of tension. This is science fiction for sophisticated audiences and, as such, a fulfilling and satisfying experience.\n\n© 2015 James Berardinelli",
+            "trailers": {
+                "high": [
+                    {
+                        "film_trailer": "https://trailer.movieglu.com/184126_uk_high.mp4",
+                        "trailer_image": "https://image.movieglu.com/184126/184126h3.jpg",
+                        "version": 1,
+                        "quality": "high",
+                        "region": "UK"
+                    }
+                ]
+            },
+            "genres": [
+                {
+                    "genre_id": 5,
+                    "genre_name": "Action/Adventure"
+                },
+                {
+                    "genre_id": 10,
+                    "genre_name": "SciFi/Fantasy"
+                }
+            ],
+            "cast": [
+                {
+                    "cast_id": 1085,
+                    "cast_name": "Matt Damon"
+                },
+                {
+                    "cast_id": 2057,
+                    "cast_name": "Jessica Chastain"
+                },
+                {
+                    "cast_id": 1091,
+                    "cast_name": "Kristen Wiig"
+                },
+                {
+                    "cast_id": 2530,
+                    "cast_name": "Kate Mara"
+                },
+                {
+                    "cast_id": 1212,
+                    "cast_name": "Michael Pena"
+                },
+                {
+                    "cast_id": 2531,
+                    "cast_name": "Jeff Daniels"
+                },
+                {
+                    "cast_id": 2370,
+                    "cast_name": "Chiwetel Ejiofor"
+                },
+                {
+                    "cast_id": 2367,
+                    "cast_name": "Donald Glover"
+                }
+            ],
+            "directors": [
+                {
+                    "director_id": 555,
+                    "director_name": "Ridley Scott"
+                }
+            ],
+            "producers": [
+                {
+                    "producer_id": 341,
+                    "producer_name": "Ridley Scott"
+                },
+                {
+                    "producer_id": 210,
+                    "producer_name": "Simon Kinberg"
+                },
+                {
+                    "producer_id": 342,
+                    "producer_name": "Michael Schaefer"
+                },
+                {
+                    "producer_id": 343,
+                    "producer_name": "Mark Huffam"
+                },
+                {
+                    "producer_id": 344,
+                    "producer_name": "Aditya Sood"
+                }
+            ],
+            "writers": [
+                {
+                    "writer_id": 101,
+                    "writer_name": "Drew Goddard"
+                },
+                {
+                    "writer_id": 733,
+                    "writer_name": "Andy Weir"
+                }
+            ],
+            "show_dates": [
+                {
+                    "date": "2021-07-26"
+                },
+                {
+                    "date": "2021-07-27"
+                },
+                {
+                    "date": "2021-07-28"
+                },
+                {
+                    "date": "2021-07-29"
+                },
+                {
+                    "date": "2021-07-30"
+                },
+                {
+                    "date": "2021-07-31"
+                },
+                {
+                    "date": "2021-08-01"
+                }
+            ],
+            "alternate_versions": []
+        },{
+            "film_id": 59906,
+            "imdb_id": 469494,
+            "imdb_title_id": "tt0469494",
+            "film_name": "There Will Be Blood",
+            "other_titles": null,
+            "version_type": "Standard",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/59906/059906h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/59906/059906h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    },
+                    "2": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/59906/059906h3.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    },
+                    "3": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/59906/059906h4.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    },
+                    "4": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/59906/059906h5.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            },
+            "synopsis_long": "Set on the incendiary frontier of California's turn-of-the-century petroleum boom, the story chronicles the rise of Daniel Plainview, who transforms himself from a down-and-out silver miner raising a son on his own into a self-made oil tycoon. When Plainview gets a mysterious tip that there's a little town out West where an ocean of oil is oozing out of the ground, he heads with his son, H.W., to take their chances in dust-worn Little Boston. In this hardscrabble town, where the main excitement centers around the holy-roller church of charismatic preacher Eli Sunday, Plainview and H.W. make their lucky strike. But even as the well raises all of their fortunes, nothing will remain the same as conflicts escalate and every human value--love, hope, community, belief, ambition and even the bond between father and son--is imperiled by corruption, deception and the flow of oil.",
+            "distributor_id": 53,
+            "distributor": "Walt Disney",
+            "release_dates": [
+                {
+                    "release_date": "2008-02-08",
+                    "notes": "XXX"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "15 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/xx/15.png",
+                    "age_advisory": "Contains strong violence"
+                }
+            ],
+            "duration_mins": 158,
+            "review_stars": 4,
+            "review_txt": "Art was a dying form in movies prior to Paul Thomas Anderson's bold epic There Will Be Blood, a must-miss for most moviegoers but a truly unforgettable experience for the rest--try as they might to forget it.\n\nStory\n\nFor the first several minutes of There Will Be Blood--just a small portion of its 160--there is no dialogue. Then Daniel Plainview (Daniel Day-Lewis) strikes oil. The year is 1898, and as time jumps ahead, Plainview is soon no longer struggling to make ends meet. By the turn of the 20th century, the oil prospector is something of a traveling salesman in California, getting local farmers to give up their land so he can drill, with his young adopted son/gimmick (Dillon Freasier) in tow. Until, that is, he stumbles upon a goldmine: a rural farm teeming with oil just beneath it. He promises to make the landowners, the Sunday family, as rich as he himself will become as a result. But the landowner's teenage son Eli (Paul Dano), a highly religious evangelist, doesn't much care for money. In fact, he doesn't much care for Daniel, his motives, or his ungodliness, and looks to cure him of these ills, at which Daniel scoffs. The two clash on more than one occasion before not seeing each other for a while. At the end of the movie, the year is 1927. Daniel is now a madman oil tycoon/recluse living off of his riches and exploitations, stumbling about his oil-made mansion with alcohol in hand. He's a shred of his former self, only much wealthier. In walks his old buddy/adversary Eli, who sobers him right up. \n\nActing\n\nAs complicated a thespian god as Daniel Day-Lewis has always been in his career, his acting skill has been consistently and easily the best. Every performance of his is great to the same degree, and Daniel Plainview, a character unlike any he has ever played, is no exception. The actor, known for his long breaks between movies and his Method-like transformations, is so powerful here that his performance is as responsible for the tone as any of director Paul Thomas Anderson's work. Day-Lewis can often be heard delivering diatribes on humanity in There Will Be Blood, typically while sporting a devilish grin more disturbing than the film's most violent scenes. It makes you wonder: Who would even want to go so deep into a character so dark? But the minutiae of Plainview--the walk, the demeanor, the misanthropy--round out Day-Lewis' incredible performance more than the spoken words. Young actor Paul Dano (Little Miss Sunshine) is equally intense as Plainview's pious opponent/lightning rod, and maybe more--maybe, just maybe, his innermost demon. It's a performance worthy of a Supporting Actor nod, but ultimately, this is Day-Lewis' show. \n\nDirection\n\nThere Will Be Blood is the cliché of an auteur fighting for his art, as evidenced by its length and obtuseness; otherwise, though, it is the anti-cliché (and anti-crowd pleaser). For that we can thank--yes, thank--Paul Thomas Anderson, who, as his three other well-known films (Boogie Nights, Magnolia and Punch-Drunk Love) hinted, was probably dying for a film of this limitless grandeur. While Anderson's adaptation of Upton Sinclair's Oil! could be seen as a veiled allegorical wink to modernism, it's really a story about an oilman, the money that his oil hath wrought, and the demons that swirl around him and his religious detractors. Anderson, the genius writer, has conjured up a tale of evil, family and greed as well as a religiosity/secularism push/pull that is at once opaque and crystal clear. Anderson, the genius director, frames a story that is beautiful and horrifying, neither of which is ever mutually exclusive. The highly deliberate writer-director clearly values quality over quantity, and he got both out of this movie, an epic masterpiece in a career so young. There Will Be Blood also has this year's far-and-away best score, from Radiohead guitarist/electronics mastermind Jonny Greenwood, which fills in any empty spots of weirdness and/or tension left vacant by Anderson, and maximizes such spots elsewhere. Anderson now has shot to the No. 1 spot on the Hollywood-outlaw list with this absolute non-adventure of epic proportions. He is utterly unconcerned with any sort of expectations--from audiences or studios. Hell, you could even call it a bit of a f-you to everyone except his fans and cinephiles. Congrats, PTA!\n\nBottom Line\n\nHollywood.com rated this film 4 stars.",
+            "trailers": null,
+            "genres": [
+                {
+                    "genre_id": 1,
+                    "genre_name": "Drama"
+                }
+            ],
+            "cast": [
+                {
+                    "cast_id": 123,
+                    "cast_name": "Daniel Day-Lewis"
+                },
+                {
+                    "cast_id": 6198,
+                    "cast_name": "Paul Dano"
+                },
+                {
+                    "cast_id": 2545,
+                    "cast_name": "Kevin J. O'Connor"
+                },
+                {
+                    "cast_id": 1592,
+                    "cast_name": "Ciarán Hinds"
+                },
+                {
+                    "cast_id": 6199,
+                    "cast_name": "Russell Harvard"
+                },
+                {
+                    "cast_id": 6200,
+                    "cast_name": "Paul F. Tompkins"
+                },
+                {
+                    "cast_id": 6201,
+                    "cast_name": "Jim Meskimen"
+                },
+                {
+                    "cast_id": 6202,
+                    "cast_name": "John Kerry"
+                },
+                {
+                    "cast_id": 6203,
+                    "cast_name": "January Welsh"
+                },
+                {
+                    "cast_id": 6204,
+                    "cast_name": "Colleen Foy"
+                }
+            ],
+            "directors": [
+                {
+                    "director_id": 597,
+                    "director_name": "Paul Thomas Anderson"
+                }
+            ],
+            "producers": [
+                {
+                    "producer_id": 99,
+                    "producer_name": "Scott Rudin"
+                }
+            ],
+            "writers": [
+                {
+                    "writer_id": 717,
+                    "writer_name": "Paul Thomas Anderson"
+                },
+                {
+                    "writer_id": 1786,
+                    "writer_name": "Upton Sinclair"
+                }
+            ],
+            "show_dates": [
+                {
+                    "date": "2021-07-26"
+                },
+                {
+                    "date": "2021-07-27"
+                },
+                {
+                    "date": "2021-07-28"
+                },
+                {
+                    "date": "2021-07-29"
+                },
+                {
+                    "date": "2021-07-30"
+                },
+                {
+                    "date": "2021-07-31"
+                },
+                {
+                    "date": "2021-08-01"
+                }
+            ],
+            "alternate_versions": []
+        },{
+            "film_id": 3427,
+            "imdb_id": 116367,
+            "imdb_title_id": "tt0116367",
+            "film_name": "From Dusk Till Dawn",
+            "other_titles": null,
+            "version_type": "Standard",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "UK",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/3427/GBR_003427h0.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    },
+                    "2": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/3427/003427h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/3427/003427h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    },
+                    "2": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/3427/003427h3.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            },
+            "synopsis_long": "In this action-horror flick from director Robert Rodriguez and screenwriter Quentin Tarantino, Tarantino stars with George Clooney as a pair of bad-to-the-bone brothers named Seth and Richie Gecko. After a string of robberies that left a river of blood in the Geckos' wake, the sadistic siblings head to Mexico to live the good life. To get over the border, they kidnap Jacob Fuller, a widowed preacher played by Harvey Keitel, and his two children, Kate (Juliette Lewis) and Scott (Ernest Liu). Once south of the border, the quintet park their RV at a rough-and-tumble trucker bar called The Titty Twister, where Seth and Richie are supposed to meet a local thug. After a couple of drinks, they realize that they're not in a typical bar, as the entire place begins to teem with vicious, blood-sucking vampires. With the odds stacked greatly against them, the Fullers and Geckos team together in hopes of defeating the creatures of the night. Makeup artist Tom Savini and blaxploitation star Fred Williamson appear as allies against the vampires, and Cheech Marin fills three different roles.~ Matthew Tobey, All Movie Guide",
+            "distributor_id": 1,
+            "distributor": "Walt Disney UK",
+            "release_dates": [
+                {
+                    "release_date": "1996-05-09",
+                    "notes": "XXX"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "18 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/xx/18.png",
+                    "age_advisory": ""
+                }
+            ],
+            "duration_mins": 100,
+            "review_stars": 0,
+            "review_txt": "",
+            "trailers": null,
+            "genres": [
+                {
+                    "genre_id": 11,
+                    "genre_name": "Suspense/Thriller"
+                }
+            ],
+            "cast": [
+                {
+                    "cast_id": 6024,
+                    "cast_name": "Quentin Tarantino"
+                },
+                {
+                    "cast_id": 1738,
+                    "cast_name": "George Clooney"
+                },
+                {
+                    "cast_id": 2090,
+                    "cast_name": "Harvey Keitel"
+                },
+                {
+                    "cast_id": 790,
+                    "cast_name": "Juliette Lewis"
+                }
+            ],
+            "directors": [
+                {
+                    "director_id": 38,
+                    "director_name": "Robert Rodriguez"
+                }
+            ],
+            "producers": [
+                {
+                    "producer_id": 1644,
+                    "producer_name": "Gianni Nunnari"
+                }
+            ],
+            "writers": [
+                {
+                    "writer_id": 3430,
+                    "writer_name": "Robert Kurtzman"
+                },
+                {
+                    "writer_id": 838,
+                    "writer_name": "Quentin Tarantino"
+                }
+            ],
+            "show_dates": [
+                {
+                    "date": "2021-07-26"
+                },
+                {
+                    "date": "2021-07-27"
+                },
+                {
+                    "date": "2021-07-28"
+                },
+                {
+                    "date": "2021-07-29"
+                },
+                {
+                    "date": "2021-07-30"
+                },
+                {
+                    "date": "2021-07-31"
+                },
+                {
+                    "date": "2021-08-01"
+                }
+            ],
+            "alternate_versions": []
+        },{
+            "film_id": 1685,
+            "imdb_id": 109045,
+            "imdb_title_id": "tt0109045",
+            "film_name": "The Adventures of Priscilla, Queen of the Desert",
+            "other_titles": null,
+            "version_type": "Standard",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "UK",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/1685/GBR_001685h0.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    },
+                    "2": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/1685/001685h1.jpg",
+                            "width": 211,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/1685/001685h2.jpg",
+                            "width": 300,
+                            "height": 197
+                        }
+                    },
+                    "2": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/1685/001685h3.jpg",
+                            "width": 300,
+                            "height": 234
+                        }
+                    },
+                    "3": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/1685/001685h4.jpg",
+                            "width": 300,
+                            "height": 180
+                        }
+                    },
+                    "4": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/1685/001685h5.jpg",
+                            "width": 300,
+                            "height": 199
+                        }
+                    },
+                    "5": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/1685/001685h6.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    },
+                    "6": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/1685/001685h7.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    },
+                    "7": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/1685/001685h8.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            },
+            "synopsis_long": "Two drag-queens, Mitzi and Felicia, and a transsexual, Bernadette sign up for a gig at a drag show in the remote Australian desert.They head west from Sydney aboard a lavender bus named Priscilla, but when they arrive, they find more than just a cabaret job lying in wait.",
+            "distributor_id": 9,
+            "distributor": "Park Circus",
+            "release_dates": [
+                {
+                    "release_date": "2019-06-07",
+                    "notes": "XXX"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "15 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/xx/15.png",
+                    "age_advisory": "Contains strong language, sex references and threat"
+                }
+            ],
+            "duration_mins": 102,
+            "review_stars": 0,
+            "review_txt": "",
+            "trailers": null,
+            "genres": [
+                {
+                    "genre_id": 1,
+                    "genre_name": "Drama"
+                },
+                {
+                    "genre_id": 3,
+                    "genre_name": "Comedy"
+                }
+            ],
+            "cast": [
+                {
+                    "cast_id": 81,
+                    "cast_name": "Terence Stamp"
+                },
+                {
+                    "cast_id": 82,
+                    "cast_name": "Hugo Weaving"
+                },
+                {
+                    "cast_id": 83,
+                    "cast_name": "Guy Pearce"
+                },
+                {
+                    "cast_id": 84,
+                    "cast_name": "Bill Hunter"
+                },
+                {
+                    "cast_id": 85,
+                    "cast_name": "Rebel Russell"
+                }
+            ],
+            "directors": [
+                {
+                    "director_id": 23,
+                    "director_name": "Stephan Elliott"
+                }
+            ],
+            "producers": [],
+            "writers": [
+                {
+                    "writer_id": 28,
+                    "writer_name": "Stephan Elliott"
+                }
+            ],
+            "show_dates": [
+                {
+                    "date": "2021-07-26"
+                },
+                {
+                    "date": "2021-07-27"
+                },
+                {
+                    "date": "2021-07-28"
+                },
+                {
+                    "date": "2021-07-29"
+                },
+                {
+                    "date": "2021-07-30"
+                },
+                {
+                    "date": "2021-07-31"
+                },
+                {
+                    "date": "2021-08-01"
+                }
+            ],
+            "alternate_versions": []
+        },{
+            "film_id": 25,
+            "imdb_id": 111282,
+            "imdb_title_id": "tt0111282",
+            "film_name": "Stargate",
+            "other_titles": null,
+            "version_type": "Standard",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/25/000025h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                }
+            },
+            "synopsis_long": "This lucrative, elephantine-budgeted sci-fi opus paved the way for director Roland Emmerich's mega-hit Independence Day (1996). The story commences in Giza, Egypt, circa 1928, where an archaeological expedition unearths an ancient ring with cryptic hieroglyphs. The film then moves to the present day, where Egyptologist Daniel Jackson (James Spader) is busily trying to convince a group of skeptics that the pyramids were not built by man, but by an extraterrestrial force. After the lecture, a military man approaches him and offers him a job translating the said ring; its inscriptions actually constitute a map to a massive stargate (or interstellar portal). The army sends over resident crackpot colonel Jack O'Neill (Kurt Russell) to travel through the stargate and see what's on the other side; Jackson accompanies him, and the two men turn up in a desert planet on the other side of the universe, with three moons in its sky. The world in question is ruled by Ra (Jaye Davidson), a hermaphroditic Egyptian sun god, who oppresses hordes of slave workers. Jackson and O'Neill then join forces to help the said workers revolt against their oppressor.~ Paul Brenner, All Movie Guide",
+            "distributor_id": 75,
+            "distributor": "eOne",
+            "release_dates": [
+                {
+                    "release_date": "2001-09-26",
+                    "notes": "XXX"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/xx/pg.png",
+                    "age_advisory": "Contains mild language and fantasy violence"
+                }
+            ],
+            "duration_mins": 116,
+            "review_stars": 0,
+            "review_txt": "",
+            "trailers": null,
+            "genres": [
+                {
+                    "genre_id": 10,
+                    "genre_name": "SciFi/Fantasy"
+                },
+                {
+                    "genre_id": 5,
+                    "genre_name": "Action/Adventure"
+                },
+                {
+                    "genre_id": 10,
+                    "genre_name": "SciFi/Fantasy"
+                }
+            ],
+            "cast": [
+                {
+                    "cast_id": 1357,
+                    "cast_name": "Kurt Russell"
+                },
+                {
+                    "cast_id": 7523,
+                    "cast_name": "James Spader"
+                },
+                {
+                    "cast_id": 8690,
+                    "cast_name": "Alexis Cruz"
+                },
+                {
+                    "cast_id": 8691,
+                    "cast_name": "Viveca Lindfors"
+                },
+                {
+                    "cast_id": 8692,
+                    "cast_name": "Mili Avital"
+                },
+                {
+                    "cast_id": 8693,
+                    "cast_name": "John Diehl"
+                },
+                {
+                    "cast_id": 8694,
+                    "cast_name": "Leon Rippy"
+                },
+                {
+                    "cast_id": 8695,
+                    "cast_name": "Carlos Lauchu"
+                },
+                {
+                    "cast_id": 3451,
+                    "cast_name": "Djimon Hounsou"
+                },
+                {
+                    "cast_id": 868,
+                    "cast_name": "Erick Avari"
+                }
+            ],
+            "directors": [
+                {
+                    "director_id": 636,
+                    "director_name": "Roland Emmerich"
+                }
+            ],
+            "producers": [],
+            "writers": [
+                {
+                    "writer_id": 1114,
+                    "writer_name": "Dean Devlin"
+                },
+                {
+                    "writer_id": 2496,
+                    "writer_name": "Roland Emmerich"
+                }
+            ],
+            "show_dates": [
+                {
+                    "date": "2021-07-26"
+                },
+                {
+                    "date": "2021-07-27"
+                },
+                {
+                    "date": "2021-07-28"
+                },
+                {
+                    "date": "2021-07-29"
+                },
+                {
+                    "date": "2021-07-30"
+                },
+                {
+                    "date": "2021-07-31"
+                },
+                {
+                    "date": "2021-08-01"
+                }
+            ],
+            "alternate_versions": []
+        },{
+            "film_id": 6650,
+            "imdb_id": 116209,
+            "imdb_title_id": "tt0116209",
+            "film_name": "The English Patient",
+            "other_titles": null,
+            "version_type": "Standard",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/6650/006650h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                }
+            },
+            "synopsis_long": "Anthony Minghella wrote and directed this award-winning adaptation of Michael Ondaatje's novel about a doomed and tragic romance set against the backdrop of World War II. In a field hospital in Italy, Hana (Juliette Binoche), a nurse from Canada, is caring for a pilot who was horribly burned in a plane wreck; he has no identification and cannot remember his name, so he's known simply as the English Patient, thanks to his accent. When the hospital is forced to evacuate, Hana determines en route that the patient shouldn't be moved far due to his fragile condition, so the two are left in a monastery to be picked up later. In time, Hana begins to piece together the patient's story from the shards of his memories; he's actually Count Laszlo Almasy (Ralph Fiennes), of Hungarian nobility and an explorer working with a group mapping uncharted territory in North Africa. An Englishman, Geoffrey Clifton (Colin Firth), soon joins Almasy's team; travelling with him is his lovely and spirited wife, Katherine (Kristin Scott Thomas). Katherine and Laszlo soon fall in love, which leads Laszlo to betray his friend, his country and all that is dear to him. Meanwhile, Hana and the Patient are joined by Kip (Naveen Andrews), a Sikh with a gift for defusing mines, and Caravaggio (Willem Dafoe), an intelligence agent who knows some of Laszlo's most shameful secrets. The English Patient won nine Academy Awards, including Best Picture, Best Director and Best Supporting Actress (Juliette Binoche).~ Mark Deming, All Movie Guide",
+            "distributor_id": 19,
+            "distributor": "Buena Vista International",
+            "release_dates": [
+                {
+                    "release_date": "1997-03-14",
+                    "notes": "XXX"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "15 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/xx/15.png",
+                    "age_advisory": ""
+                }
+            ],
+            "duration_mins": 160,
+            "review_stars": 0,
+            "review_txt": "",
+            "trailers": null,
+            "genres": [
+                {
+                    "genre_id": 1,
+                    "genre_name": "Drama"
+                }
+            ],
+            "cast": [
+                {
+                    "cast_id": 1898,
+                    "cast_name": "Ralph Fiennes"
+                },
+                {
+                    "cast_id": 1878,
+                    "cast_name": "Juliette Binoche"
+                },
+                {
+                    "cast_id": 1017,
+                    "cast_name": "Kristin Scott Thomas"
+                },
+                {
+                    "cast_id": 285,
+                    "cast_name": "Willem Dafoe"
+                },
+                {
+                    "cast_id": 1814,
+                    "cast_name": "Colin Firth"
+                }
+            ],
+            "directors": [
+                {
+                    "director_id": 899,
+                    "director_name": "Anthony Minghella"
+                }
+            ],
+            "producers": [],
+            "writers": [
+                {
+                    "writer_id": 1950,
+                    "writer_name": "Michael Ondaatje"
+                },
+                {
+                    "writer_id": 1051,
+                    "writer_name": "Anthony Minghella"
+                }
+            ],
+            "show_dates": [
+                {
+                    "date": "2021-07-26"
+                },
+                {
+                    "date": "2021-07-27"
+                },
+                {
+                    "date": "2021-07-28"
+                },
+                {
+                    "date": "2021-07-29"
+                },
+                {
+                    "date": "2021-07-30"
+                },
+                {
+                    "date": "2021-07-31"
+                },
+                {
+                    "date": "2021-08-01"
+                }
+            ],
+            "alternate_versions": []
+        },{
+            "film_id": 8675,
+            "imdb_id": 56172,
+            "imdb_title_id": "tt0056172",
+            "film_name": "Lawrence Of Arabia - 70mm",
+            "other_titles": {
+                "EN": "Lawrence Of Arabia"
+            },
+            "version_type": "Standard",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "UK",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/8675/GBR_008675h0.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    },
+                    "2": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/8675/008675h1.jpg",
+                            "width": 199,
+                            "height": 300
+                        }
+                    }
+                }
+            },
+            "synopsis_long": "Stunning in scope, visually magnificent, and filled with compelling performances, David Lean's epic masterpiece is one of the great achievements in cinematic history. Peter O'Toole stars as T.E. Lawrence, a British officer who is sent to Arabia in 1917, and becomes a heroic leader in the Arabic rebellion against the Turks. As he grows more integrated into Arab society, his loyalties become conflicted. Omar Sharif, Alec Guinness and Anthony Quinn co-star in this sweeping historical action-adventure classic.",
+            "distributor_id": 9,
+            "distributor": "Park Circus",
+            "release_dates": [
+                {
+                    "release_date": "2017-09-22",
+                    "notes": "XXX"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/xx/pg.png",
+                    "age_advisory": "mild violence"
+                }
+            ],
+            "duration_mins": 222,
+            "review_stars": 0,
+            "review_txt": "",
+            "trailers": null,
+            "genres": [
+                {
+                    "genre_id": 5,
+                    "genre_name": "Action/Adventure"
+                },
+                {
+                    "genre_id": 1,
+                    "genre_name": "Drama"
+                },
+                {
+                    "genre_id": 12,
+                    "genre_name": "War"
+                }
+            ],
+            "cast": [
+                {
+                    "cast_id": 5615,
+                    "cast_name": "Peter O'Toole"
+                },
+                {
+                    "cast_id": 10417,
+                    "cast_name": "Alec Guinness"
+                },
+                {
+                    "cast_id": 6079,
+                    "cast_name": "Anthony Quinn"
+                },
+                {
+                    "cast_id": 9403,
+                    "cast_name": "Jack Hawkins"
+                },
+                {
+                    "cast_id": 2774,
+                    "cast_name": "Omar Sharif"
+                },
+                {
+                    "cast_id": 1279,
+                    "cast_name": "José Ferrer"
+                },
+                {
+                    "cast_id": 10418,
+                    "cast_name": "Anthony Quayle"
+                },
+                {
+                    "cast_id": 829,
+                    "cast_name": "Claude Rains"
+                },
+                {
+                    "cast_id": 5360,
+                    "cast_name": "Arthur Kennedy"
+                },
+                {
+                    "cast_id": 10419,
+                    "cast_name": "Donald Wolfit"
+                }
+            ],
+            "directors": [
+                {
+                    "director_id": 168,
+                    "director_name": "David Lean"
+                }
+            ],
+            "producers": [
+                {
+                    "producer_id": 385,
+                    "producer_name": "Sam Spiegel"
+                }
+            ],
+            "writers": [
+                {
+                    "writer_id": 2990,
+                    "writer_name": "T.E. Lawrence"
+                },
+                {
+                    "writer_id": 2590,
+                    "writer_name": "Robert Bolt"
+                },
+                {
+                    "writer_id": 2991,
+                    "writer_name": "Michael Wilson"
+                }
+            ],
+            "show_dates": [
+                {
+                    "date": "2021-07-27"
+                },
+                {
+                    "date": "2021-07-28"
+                },
+                {
+                    "date": "2021-07-29"
+                },
+                {
+                    "date": "2021-07-30"
+                },
+                {
+                    "date": "2021-07-31"
+                },
+                {
+                    "date": "2021-08-01"
+                }
+            ],
+            "alternate_versions": []
+        },{
+            "film_id": 21448,
+            "imdb_id": 120188,
+            "imdb_title_id": "tt0120188",
+            "film_name": "Three Kings",
+            "other_titles": null,
+            "version_type": "Standard",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/21448/021448h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                }
+            },
+            "synopsis_long": "The Gulf War is over, and three soldiers want to go home rich. Major Archie Gates retires in two weeks.  Sergeant Troy Barlow is a new father.  Chief Elgin is on a four-month paid vacation from Detroit.  Saddam Hussein stole a great deal of gold from Kuwait, and these soldiers have no problem with stealing it from him.  But on their way to collect their booty, they bear witness to the the disturbing results of the war effort.  President Bush has encouraged Iraqi citizens to fight back against Saddam and pledged to support them, but when they rise up, they get NO American support, and they're getting slaughtered.  As the soldiers realize the true situation in Iraq, they're confronted with their own humanity, and they're forced to rethink who they are and what they're doing.",
+            "distributor_id": 7,
+            "distributor": "Warner Brothers",
+            "release_dates": [
+                {
+                    "release_date": "1999-11-09",
+                    "notes": "XXX"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "15 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/xx/15.png",
+                    "age_advisory": "for graphic war violence and very strong language"
+                }
+            ],
+            "duration_mins": 125,
+            "review_stars": 0,
+            "review_txt": "The war movie has been a staple in world cinema since its inception. From D.W. Griffith's 1915 landmark \"The Birth of a Nation\" to Francis Ford Coppola's Vietnam tour-de-force \"Apocalypse Now\" to Steven Spielberg's World War II epic \"Saving Private Ryan,\" man's ability to destroy one another and all the consequences of those actions have made for some of the most compelling moments in the history of film. \n\nThat a firestorm of Gulf War pictures never made it to the cinema marketplace following the conflict is amazing to say the least. Fortunately, when the moment of truth finally arrived, director David O. Russell (\"Flirting with Disaster\") knew how powerful a story set in this piece of history could be. The result is the finely-tuned, unconventionally conventional \"Three Kings.\" \n\nSet during the cease-fire period following Iraq's surrender, \"Three Kings\" is actually a rather complex tale of corruption, greed, moral ground and the pursuit of a reason for being in the harsh post war desert of the Middle East. Knee deep in post-victory celebration, soldiers are going through the motions waiting for the war to officially end when a group of them confiscate a mysterious map from a captured Iraqi. \n\nBehind closed doors (or tent flaps), Sgt. Troy Barlow (Mark Wahlberg), Pvt. Conrad Vig (Spike Jones) and Chief Elgin (Ice Cube) discover that the map's secret is, in all likelihood, the hiding spot for a boatload of stolen Kuwaiti gold bullion still held by Saddam Hussein's forces. When George Clooney's Sgt. Maj. Archie Gates--a sarcastic and unimpressed veteran who would just like to get out of Dodge and retire--gets air of the group's find, the wheels start spinning and the covert action of a lifetime begins to unfold. \n\nUnder cover of drunken partying, Gates believes the group could slip away from their base, rendezvous at the Iraqi bunkers, grab the gold and get back safely unnoticed. Realizing that none of them have much to look forward to back in the real world without cash, they all agree to give it a shot. \n\nWith the cease-fire well underway, the quartet have no problem entering the Iraqi bunkers and finding what they have come for. When the troops decide to not only take the gold, but also free a group of rebellious Iraqi citizens who have been imprisoned, things take a violently bad turn. Unable to engage the enemy under the rules of the cease-fire, the four watch in horror as an Iraqi soldier kills a young woman in front of her husband and daughter. \n\nHaving seen enough, the four find themselves in a situation where they must either violate the peace agreement or simply watch unarmed citizens be killed by their own army. They choose the former. \n\nAlone, barely armed and intent on saving as many people as possible, the soldiers attempt to flee with the refugees and the gold--something the Iraqi Republican Guard has some substantial issues with. The Iraqi troops waste little time in turning the situation around--capturing Sgt. Barlow and forcing the others underground. With the help of a group of Iraqi rebels, the remaining three must find a way to rescue Barlow and move the refugees safely across the border into Iran. \n\nBesides the compelling nature of David O. Russell's story--as well as the charismatic performances of Clooney, Cube and Whalberg--what makes \"Three Kings\" so special is its truly independent spirit. With visual splendor and an unconventional sense of patriotism amidst the painful and sometimes inconsistent nature of right and wrong in the realm of armed combat (the impassioned exchange between Whalberg and his torturer [Said Taghmaoui] is among the most painful), Russell transcends the \"Rambo\" war movie that many may expect from its gung-ho trailer. \n\nInstead of gratuitous battle sequences with nothing of substance to back them up, Russell concentrates on character and the fragility of life through even the most seasoned combat vets. More admirable still, rather than portray the Iraqi soldiers as evil incarnates with no sense of moral reason, they are shown too as people with lives and families that they wish to protect at all costs. \n\nFrom frame one, the cinematography of Newton Thomas Sigel is also unmistakable. The washed-out look and grainy feel of the picture puts the audience right into the harsh and unmerciful desert heat and demands the viewer to become entrenched in the horror around them. \n\nWhat \"Three Kings\" shows more powerfully than anything else is that a conventional film does not have to lower itself to the lowest common denominator in order to prove thought provoking and entertaining. \n\n* MPAA rating: R, for graphic war violence, language and some sexuality. \n\n'Three Kings' \n\nGeorge Clooney: Archie Gates \n\nMark Wahlberg: Troy Barlow \n\nIce Cube: Chief Elgin \n\nSpike Jonze: Conrad Vig \n\nNora Dunn: Adriana Cruz \n\nJamie Kennedy: Walter \n\nIn association with Village Roadshow Pictures/Village-A.M. Film Partnership, a Coast Ridge/Atlas Entertainment production, released by Warner Bros. Director David O. Russell. Producers Charles Roven, Paul Junger Witt, Edward L. McDonnell. Executive producers Kelley Smith-Wait, Gregory Goodman, Bruce Berman. Screenplay David O. Russell. Story John Ridley. Cinematographer Newton Thomas Sigel. Editor Robert K. Lambert. Costumes Kym Barrett. Music Carter Burwell. Production design Catherine Hardwicke. Running time: 1 hour, 54 minutes. ",
+            "trailers": null,
+            "genres": [
+                {
+                    "genre_id": 1,
+                    "genre_name": "Drama"
+                }
+            ],
+            "cast": [
+                {
+                    "cast_id": 1738,
+                    "cast_name": "George Clooney"
+                },
+                {
+                    "cast_id": 1086,
+                    "cast_name": "Mark Wahlberg"
+                },
+                {
+                    "cast_id": 2121,
+                    "cast_name": "Ice Cube"
+                },
+                {
+                    "cast_id": 4070,
+                    "cast_name": "Spike Jonze"
+                },
+                {
+                    "cast_id": 12525,
+                    "cast_name": "Nora Dunn"
+                }
+            ],
+            "directors": [
+                {
+                    "director_id": 3103,
+                    "director_name": "David O. Russell"
+                }
+            ],
+            "producers": [
+                {
+                    "producer_id": 1747,
+                    "producer_name": "Paul Junger Witt"
+                },
+                {
+                    "producer_id": 151,
+                    "producer_name": "Charles Roven"
+                }
+            ],
+            "writers": [
+                {
+                    "writer_id": 2779,
+                    "writer_name": "John Ridley"
+                },
+                {
+                    "writer_id": 3647,
+                    "writer_name": "David O. Russell"
+                }
+            ],
+            "show_dates": [
+                {
+                    "date": "2021-07-26"
+                },
+                {
+                    "date": "2021-07-27"
+                },
+                {
+                    "date": "2021-07-28"
+                },
+                {
+                    "date": "2021-07-29"
+                },
+                {
+                    "date": "2021-07-30"
+                },
+                {
+                    "date": "2021-07-31"
+                },
+                {
+                    "date": "2021-08-01"
+                }
+            ],
+            "alternate_versions": []
+        },{
+            "film_id": 62407,
+            "imdb_id": 460791,
+            "imdb_title_id": "tt0460791",
+            "film_name": "The Fall",
+            "other_titles": null,
+            "version_type": "Standard",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/62407/062407h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/62407/062407h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    },
+                    "2": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/62407/062407h3.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    },
+                    "3": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/62407/062407h4.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    },
+                    "4": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/62407/062407h5.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            },
+            "synopsis_long": "Los Angeles, circa 1920s, a little immigrant girl finds herself in a hospital recovering from a fall.  She strikes up a friendship with a bedridden man who captivates her with a whimsical story that removes her far from the hospital doldrums into the exotic landscapes of her imagination.  Making sure he keeps the girl interested in the story he interweaves her family and people she likes from the hospital into his tale.",
+            "distributor_id": 106,
+            "distributor": "Momentum Pictures",
+            "release_dates": [
+                {
+                    "release_date": "2008-10-03",
+                    "notes": "XXX"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "15 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/xx/15.png",
+                    "age_advisory": "Contains strong violence"
+                }
+            ],
+            "duration_mins": 112,
+            "review_stars": 0,
+            "review_txt": "",
+            "trailers": null,
+            "genres": [
+                {
+                    "genre_id": 1,
+                    "genre_name": "Drama"
+                },
+                {
+                    "genre_id": 5,
+                    "genre_name": "Action/Adventure"
+                },
+                {
+                    "genre_id": 10,
+                    "genre_name": "SciFi/Fantasy"
+                }
+            ],
+            "cast": [
+                {
+                    "cast_id": 6729,
+                    "cast_name": "Lee Pace"
+                },
+                {
+                    "cast_id": 22067,
+                    "cast_name": "Justine Waddell"
+                },
+                {
+                    "cast_id": 22068,
+                    "cast_name": "Catinca Untaru"
+                },
+                {
+                    "cast_id": 22069,
+                    "cast_name": "Kim Uylenbroek"
+                },
+                {
+                    "cast_id": 22070,
+                    "cast_name": "Aiden Lithgow"
+                },
+                {
+                    "cast_id": 22071,
+                    "cast_name": "Sean Gilder"
+                },
+                {
+                    "cast_id": 22072,
+                    "cast_name": "Ronald France"
+                },
+                {
+                    "cast_id": 22073,
+                    "cast_name": "Andrew Roussouw"
+                },
+                {
+                    "cast_id": 22074,
+                    "cast_name": "Michael Huff"
+                },
+                {
+                    "cast_id": 9990,
+                    "cast_name": "Grant Swanby"
+                }
+            ],
+            "directors": [
+                {
+                    "director_id": 4507,
+                    "director_name": "Tarsem Singh"
+                }
+            ],
+            "producers": [
+                {
+                    "producer_id": 2982,
+                    "producer_name": "Tarsem Singh"
+                }
+            ],
+            "writers": [
+                {
+                    "writer_id": 815,
+                    "writer_name": "Dan Gilroy"
+                },
+                {
+                    "writer_id": 6515,
+                    "writer_name": "Nico Soultanakis"
+                }
+            ],
+            "show_dates": [
+                {
+                    "date": "2021-07-26"
+                },
+                {
+                    "date": "2021-07-27"
+                },
+                {
+                    "date": "2021-07-28"
+                },
+                {
+                    "date": "2021-07-29"
+                },
+                {
+                    "date": "2021-07-30"
+                },
+                {
+                    "date": "2021-07-31"
+                },
+                {
+                    "date": "2021-08-01"
+                }
+            ],
+            "alternate_versions": []
+        }
+    ]
+}

@@ -1,0 +1,434 @@
+{
+    "cinemasDetails": [
+        {
+            "cinema_id": 10636,
+            "cinema_name": "Cinema 6",
+            "address": "Jetty",
+            "address2": "address2",
+            "city": "city",
+            "state": "State",
+            "county": "county",
+            "country": "country",
+            "postcode": "Zip",
+            "phone": "(01234) 567 8910",
+            "lat": -22.680721,
+            "lng": 14.519094,
+            "distance": 57.55892076987,
+            "ticketing": 0,
+            "directions": "directions",
+            "logo_url": "https://assets.movieglu.com/chain_logos/xx/UK-0-sq.jpg",
+            "show_dates": [
+                {
+                    "date": "2021-07-26"
+                },
+                {
+                    "date": "2021-07-27"
+                },
+                {
+                    "date": "2021-07-28"
+                },
+                {
+                    "date": "2021-07-29"
+                },
+                {
+                    "date": "2021-07-30"
+                },
+                {
+                    "date": "2021-07-31"
+                },
+                {
+                    "date": "2021-08-01"
+                },
+                {
+                    "date": "2021-08-02"
+                },
+                {
+                    "date": "2021-08-03"
+                },
+                {
+                    "date": "2021-08-04"
+                }
+            ]
+        },
+        {
+            "cinema_id": 42963,
+            "cinema_name": "Cinema 7",
+            "address": "Welwitschia Plains",
+            "address2": "address2",
+            "city": "city",
+            "state": "State",
+            "county": "county",
+            "country": "country",
+            "postcode": "Zip",
+            "phone": "(01234) 567 8910",
+            "lat": -22.669146,
+            "lng": 15.028214,
+            "distance": 80.352112347501,
+            "ticketing": 0,
+            "directions": "directions",
+            "logo_url": "https://assets.movieglu.com/chain_logos/xx/UK-0-sq.jpg",
+            "show_dates": [
+                {
+                    "date": "2021-07-26"
+                },
+                {
+                    "date": "2021-07-27"
+                },
+                {
+                    "date": "2021-07-28"
+                },
+                {
+                    "date": "2021-07-29"
+                },
+                {
+                    "date": "2021-07-30"
+                },
+                {
+                    "date": "2021-07-31"
+                },
+                {
+                    "date": "2021-08-01"
+                }
+            ]
+        },
+        {
+            "cinema_id": 45353,
+            "cinema_name": "Cinema 8",
+            "address": "Eduard Bohlen",
+            "address2": "address2",
+            "city": "city",
+            "state": "State",
+            "county": "county",
+            "country": "country",
+            "postcode": "Zip",
+            "phone": "(01234) 567 8910",
+            "lat": -23.996033,
+            "lng": 14.457391,
+            "distance": 140.95552847269,
+            "ticketing": 0,
+            "directions": "directions",
+            "logo_url": "https://assets.movieglu.com/chain_logos/xx/UK-0-sq.jpg",
+            "show_dates": [
+                {
+                    "date": "2021-07-26"
+                },
+                {
+                    "date": "2021-07-27"
+                },
+                {
+                    "date": "2021-07-28"
+                },
+                {
+                    "date": "2021-07-29"
+                },
+                {
+                    "date": "2021-07-30"
+                },
+                {
+                    "date": "2021-07-31"
+                },
+                {
+                    "date": "2021-08-01"
+                },
+                {
+                    "date": "2021-08-02"
+                },
+                {
+                    "date": "2021-08-03"
+                },
+                {
+                    "date": "2021-08-04"
+                }
+            ]
+        },
+        {
+            "cinema_id": 8845,
+            "cinema_name": "Cinema 2",
+            "address": "Deadvlei",
+            "address2": "address2",
+            "city": "city",
+            "state": "State",
+            "county": "county",
+            "country": "country",
+            "postcode": "Zip",
+            "phone": "(01234) 567 8910",
+            "lat": -24.759233,
+            "lng": 15.292389,
+            "distance": 207.52516109344,
+            "ticketing": 0,
+            "directions": "directions",
+            "logo_url": "https://assets.movieglu.com/chain_logos/xx/UK-1-sq.jpg",
+            "show_dates": [
+                {
+                    "date": "2021-07-26"
+                },
+                {
+                    "date": "2021-07-27"
+                },
+                {
+                    "date": "2021-07-28"
+                },
+                {
+                    "date": "2021-07-29"
+                },
+                {
+                    "date": "2021-07-30"
+                },
+                {
+                    "date": "2021-07-31"
+                },
+                {
+                    "date": "2021-08-01"
+                },
+                {
+                    "date": "2021-08-02"
+                },
+                {
+                    "date": "2021-08-03"
+                },
+                {
+                    "date": "2021-08-04"
+                },
+                {
+                    "date": "2021-08-05"
+                },
+                {
+                    "date": "2021-08-06"
+                },
+                {
+                    "date": "2021-08-07"
+                },
+                {
+                    "date": "2021-08-08"
+                }
+            ]
+        },
+        {
+            "cinema_id": 9435,
+            "cinema_name": "Cinema 5",
+            "address": "Sesriem Canyon",
+            "address2": "address2",
+            "city": "city",
+            "state": "State",
+            "county": "county",
+            "country": "country",
+            "postcode": "Zip",
+            "phone": "(01234) 567 8910",
+            "lat": -24.519194,
+            "lng": 15.790539,
+            "distance": 207.88720228852,
+            "ticketing": 0,
+            "directions": "directions",
+            "logo_url": "https://assets.movieglu.com/chain_logos/xx/UK-1-sq.jpg",
+            "show_dates": [
+                {
+                    "date": "2021-07-26"
+                },
+                {
+                    "date": "2021-07-27"
+                },
+                {
+                    "date": "2021-07-28"
+                },
+                {
+                    "date": "2021-07-29"
+                },
+                {
+                    "date": "2021-07-30"
+                },
+                {
+                    "date": "2021-07-31"
+                },
+                {
+                    "date": "2021-08-01"
+                },
+                {
+                    "date": "2021-08-02"
+                },
+                {
+                    "date": "2021-08-03"
+                },
+                {
+                    "date": "2021-08-04"
+                },
+                {
+                    "date": "2021-08-08"
+                }
+            ]
+        },
+        {
+            "cinema_id": 8930,
+            "cinema_name": "Cinema 4",
+            "address": "Hiddenvlei",
+            "address2": "address2",
+            "city": "city",
+            "state": "State",
+            "county": "county",
+            "country": "country",
+            "postcode": "Zip",
+            "phone": "(01234) 567 8910",
+            "lat": -24.748602,
+            "lng": 15.335606,
+            "distance": 207.95294701838,
+            "ticketing": 0,
+            "directions": "directions",
+            "logo_url": "https://assets.movieglu.com/chain_logos/xx/UK-1-sq.jpg",
+            "show_dates": [
+                {
+                    "date": "2021-07-26"
+                },
+                {
+                    "date": "2021-07-27"
+                },
+                {
+                    "date": "2021-07-28"
+                },
+                {
+                    "date": "2021-07-29"
+                },
+                {
+                    "date": "2021-07-30"
+                },
+                {
+                    "date": "2021-07-31"
+                },
+                {
+                    "date": "2021-08-01"
+                },
+                {
+                    "date": "2021-08-02"
+                },
+                {
+                    "date": "2021-08-03"
+                },
+                {
+                    "date": "2021-08-04"
+                }
+            ]
+        },
+        {
+            "cinema_id": 8842,
+            "cinema_name": "Cinema 1",
+            "address": "Big Daddy",
+            "address2": "address2",
+            "city": "city",
+            "state": "State",
+            "county": "county",
+            "country": "country",
+            "postcode": "Zip",
+            "phone": "(01234) 567 8910",
+            "lat": -24.768314,
+            "lng": 15.303885,
+            "distance": 208.38880993178,
+            "ticketing": 0,
+            "directions": "directions",
+            "logo_url": "https://assets.movieglu.com/chain_logos/xx/UK-1-sq.jpg",
+            "show_dates": [
+                {
+                    "date": "2021-07-26"
+                },
+                {
+                    "date": "2021-07-27"
+                },
+                {
+                    "date": "2021-07-28"
+                },
+                {
+                    "date": "2021-07-29"
+                },
+                {
+                    "date": "2021-07-30"
+                },
+                {
+                    "date": "2021-07-31"
+                },
+                {
+                    "date": "2021-08-01"
+                },
+                {
+                    "date": "2021-08-02"
+                },
+                {
+                    "date": "2021-08-03"
+                },
+                {
+                    "date": "2021-08-04"
+                },
+                {
+                    "date": "2021-08-05"
+                },
+                {
+                    "date": "2021-08-06"
+                },
+                {
+                    "date": "2021-08-07"
+                },
+                {
+                    "date": "2021-08-08"
+                }
+            ]
+        },
+        {
+            "cinema_id": 8910,
+            "cinema_name": "Cinema 3",
+            "address": "Dune 45",
+            "address2": "address2",
+            "city": "city",
+            "state": "State",
+            "county": "county",
+            "country": "country",
+            "postcode": "Zip",
+            "phone": "(01234) 567 8910",
+            "lat": -24.73102,
+            "lng": 15.47164,
+            "distance": 210.52659233787,
+            "ticketing": 0,
+            "directions": "directions",
+            "logo_url": "https://assets.movieglu.com/chain_logos/xx/UK-1-sq.jpg",
+            "show_dates": [
+                {
+                    "date": "2021-07-26"
+                },
+                {
+                    "date": "2021-07-27"
+                },
+                {
+                    "date": "2021-07-28"
+                },
+                {
+                    "date": "2021-07-29"
+                },
+                {
+                    "date": "2021-07-30"
+                },
+                {
+                    "date": "2021-07-31"
+                },
+                {
+                    "date": "2021-08-01"
+                },
+                {
+                    "date": "2021-08-02"
+                },
+                {
+                    "date": "2021-08-03"
+                },
+                {
+                    "date": "2021-08-04"
+                },
+                {
+                    "date": "2021-08-05"
+                },
+                {
+                    "date": "2021-08-06"
+                },
+                {
+                    "date": "2021-08-07"
+                },
+                {
+                    "date": "2021-08-08"
+                }
+            ]
+        }
+    ]
+}
