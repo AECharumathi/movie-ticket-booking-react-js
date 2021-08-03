@@ -1,11 +1,16 @@
 const headers = {
-    "api-version": "v200",
-    "Authorization": "Basic REVNT18zX1hYOmQ3ZGJ4VWhKdWVqRA==",
-    "client": "DEMO_3",
-    "x-api-key": "ActRhAnwFhf5g8kBHH1t8c1PergHjYS68J4fFaD6",
-    "device-datetime": "2021-07-28T14:23:35.371Z",
-    "territory": "XX",
-    "geolocation": "-22;14"
+/*
+*   ENTER THE DETAILS RECEIVED FROM https://api-registration.movieglu.com/ 
+*
+*/
+
+    "api-version": "API VERSION",
+    "Authorization": "ENTER YOUR AUTH CODE",
+    "client": "ENTER YOUR CLIENT NAME",
+    "x-api-key": "ENTER API KEY",
+    "device-datetime": "DATE TIME",
+    "territory": "TERRITORY",
+    "geolocation": "GEOLOcation"
     };
 
 export default headers;
